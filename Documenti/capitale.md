@@ -334,6 +334,34 @@ Il mercatino è il **luogo** in cui il capitale si converte.
 Non è il capitale stesso: è il modo in cui il capitale si
 scambia.
 
+### 4.5 Il centro culturale come corpo del mercatino
+
+Il mercatino è il **sistema** (blockchain, crediti, regole).
+Il **centro culturale** è il **corpo** del mercatino: il luogo fisico
+dove il sistema prende forma.
+
+- Il centro culturale ospita **lo scaffale** (fisico, visibile,
+  accessibile a tutti), **il server locale** (la blockchain del
+  mercatino) e **i custodi** (volontari che gestiscono lo scaffale).
+- Il mercatino può esistere anche senza un centro culturale
+  (es. online, o in un altro spazio).
+- Il centro culturale può ospitare più di un mercatino
+  (es. un mercatino di libri + un mercatino di utensili).
+- La **fondazione** può "adottare" centri culturali esistenti
+  (non costruirli), riducendo il costo iniziale.
+
+I **beni condivisibili** (libri, CD, manuali, semi) sono il primo
+caso di **capitale cognitivo in forma pura**: non cambiano
+proprietario, cambiano **custode**. Chi prende un libro lo
+custodisce finché lo usa, poi lo rimette in circolo. Il libro
+non si consuma: si **trasmette**. È l'atto più diretto di
+conversione da capitale fittizio (il prezzo di copertina)
+a capitale reale (la conoscenza che contiene).
+
+→ [Documenti/beni_condivisibili.md](Documenti/beni_condivisibili.md)
+— il meccanismo completo di custodia rotante, il ruolo dei centri
+culturali e il valore di trasmissione.
+
 ---
 
 ## 5. Conclusione
@@ -390,6 +418,12 @@ Questa potenza inversa è ciò che il capitalismo non vede.
   può comprare: si può solo costruire.
 - **Capitale cognitivo**: le competenze, le conoscenze, le pratiche
   condivise. Non si può esaurire: si può solo trasmettere.
+- **Custodia rotante**: il meccanismo per cui un bene non consumabile
+  (libro, CD, manuale, semi) cambia **custode** ma non proprietario.
+  Chi prende il bene lo custodisce finché lo usa, poi lo rimette
+  in circolo. Il bene non si consuma: si **trasmette**. È il terzo
+  circuito del mercatino, dopo i beni usati (che cambiano proprietario)
+  e i buoni (che rappresentano un diritto di acquisto).
 - **Capitale temporale**: il tempo delle persone. Non si può
   accumulare: si può solo spendere.
 - **Capitale ambientale**: le risorse naturali. Non si possono

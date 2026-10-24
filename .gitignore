@@ -1,5 +1,12 @@
 .dsh-acl-recovery/
-.leggi/
-.strumenti/
+leggi/
+Strumenti/
+Strumenti/Harness
 .git-tmp/
-.temp/
+temp/
+strumenti/goose/
+Strumenti
+Documenti/metodo.md
+Strumenti/agente.md
+Strumenti/diario/
+.vscode/

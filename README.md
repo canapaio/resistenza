@@ -89,6 +89,17 @@ Lo stesso meccanismo blockchain è alla base dei **consorzi** tra produttori, pe
   - Il cliente viene **bloccato per 1 settimana** dalle nuove prenotazioni.
   - Il blocco si applica **solo se il cliente possiede i buoni richiesti** per quel bene al momento della scadenza.
 
+### Beni condivisibili
+- Esiste un **terzo circuito** di beni: i **beni condivisibili** (libri, CD, manuali, semi, strumenti di misura).
+- I beni condivisibili **non cambiano proprietario**: cambiano **custode**.
+- Chi prende un bene lo **custodisce** finché lo usa, poi lo **rimette in circolo**.
+- Il patto di custodia è **registrato sulla blockchain**: "Questo bene è di tutti. Lo custodisco finché lo uso. Quando non lo uso più, lo rimetto in circolo."
+- I beni condivisibili **non hanno un prezzo in crediti**: hanno un **indice di trasmissione** (T = custodie completate, P = persone diverse, D = durata in circolo).
+- I beni condivisibili **non si prenotano**: si **custodiscono**. La prenotazione è per i beni usati (che cambiano proprietario), la custodia è per i beni condivisibili (che cambiano custode).
+- I **centri culturali** sono i **nodi fisici** dei mercatini: ospitano lo scaffale, il server locale e i custodi.
+- I **custodi** sono i volontari che gestiscono lo scaffale, registrano le custodie e segnalano i beni da rimettere in circolo.
+- → [Documenti/beni_condivisibili.md](Documenti/beni_condivisibili.md) — il meccanismo completo di custodia rotante, il ruolo dei centri culturali e il valore di trasmissione.
+
 ### Fine anno
 - La **percentuale di credito** viene tesa verso lo zero: si svuotano le casse.
 - Se **avanzano soldi**, si acquistano **beni nuovi** da mettere nel **reparto nuovo**.
@@ -155,6 +166,17 @@ Dopo il consolidamento iniziale:
 | 2 | Fondazione non-profit, consorzi, edilizia sociale, espansione | ⏳ Da fare |
 | 3 | SPA per servizi pubblici (acqua, concorrenza) | ⏳ Da fare |
 
+## Metodo e Piani
+
+- **Metodo**: [Strumenti/metodo.md](Strumenti/metodo.md) — il metodo di lavoro (diario, piani, task, sistema confidenziale).
+- **Piano iniziale**: [Strumenti/piani/resistenza/README.md](Strumenti/piani/resistenza/README.md) — il piano da cui derivano tutti gli altri piani.
+- **Piani delle fasi**: `Strumenti/piani/<fase>/README.md` — un piano dedicato per ogni fase.
+- **Piani delle sessioni**: `Strumenti/piani/<sessione>/README.md` — un piano dedicato per ogni sessione di lavoro.
+
+> **Regola**: ogni volta che si lavora sul progetto (non sul metodo), si crea una cartella del piano relativo in `Strumenti/piani/`.
+> Ogni argomento richiede **un minimo di 3 derivazioni** per avere una suddivisione del piano iniziale.
+> Via via che il progetto cresce, vanno aggiunti i piani necessari in base alla soggettività dell'utente e del metodo.
+
 ## Roadmap
 
 ### Fase 1
@@ -166,6 +188,8 @@ Dopo il consolidamento iniziale:
 - [ ] Definire le regole di stagionalità e svuotamento casse
 - [ ] Definire il **sistema di percentuale** per la gestione delle finanze e delle spese vive in denaro reale
 - [ ] Implementare il **sistema di prenotazione** dei beni (24h di fermo, blocco 1 settimana se non ritirato)
+- [ ] Definire il **meccanismo di custodia rotante** per i beni condivisibili (libri, CD, manuali, semi)
+- [ ] Identificare i **centri culturali** come nodi fisici dei mercatini
 - [ ] Verificare il quadro legale italiano (cooperativa, associazione, 501(c))
 - [ ] Prototipo MVP
 - [ ] Test pilota
@@ -222,4 +246,6 @@ Dopo il consolidamento iniziale:
 - Come sincronizzare le blockchain locali?
 - Come emettere e distribuire i **buoni di secondo livello** della fondazione?
 - Come strutturare il **consorzio autogestito** e la **certificazione delle catene di approvvigionamento** sulla blockchain?
+- Come strutturare il **meccanismo di custodia rotante** per i beni condivisibili (libri, CD, manuali, semi)?
+- Come misurare il **valore di trasmissione** di un bene condiviso senza che diventi un credito?
 - Come garantire la **tracciabilità completa** dal produttore al consumatore senza magazzini né intermediari?
