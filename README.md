@@ -36,11 +36,11 @@ Se vuoi partecipare, non serve essere esperti, non serve avere un titolo, non se
 
 **Resistenza non è un progetto chiuso, né di una persona.** È un **sistema aperto** che cerca persone per strutturarlo, condividerlo e adattarlo ai propri territori. Non è una stella in un cielo nero, ma un **universo di mercatini, fondazioni e gestioni autonome delle risorse** dei vari territori, dove dal basso le persone vogliono liberarsi dalla tirannia.
 
-Il sistema può essere **condiviso e sfruttato da tutti**: chiunque può adottarlo, adattarlo e far crescere la propria rete di mercatini, fondazioni e consorzi.
+Il sistema può essere **condiviso e sfruttato da tutti**: chiunque può adottarlo, adattarlo e far crescere la propria rete di mercatini, centri culturali, fondazioni e consorzi.
 
 ## L'idea
 
-Creare un **mercatino dell'usato** gestito con server e blockchain, dove i partecipanti ricevono **crediti** in base alle donazioni. Il sistema funziona come un circuito chiuso di beni e crediti, con regole che tendono a zero il profitto a fine anno.
+Creare un **sistema di mercatini e centri culturali** tutto in uno, dove il mercatino è il **circuito** (beni, crediti, scambi) e il centro culturale è il **nodo** (astratto o fisico: chat di gruppo, bacheche, un albero cavo in mezzo alla città dove uno lascia un libro, un link di incontro). Il centro culturale non è uno spazio, è un **punto di incontro** tra le persone. I beni sono **custoditi dalle persone**, non dagli spazi.
 
 > **Il capitale sono le persone.** Il capitalismo si mantiene sulle spalle delle persone attraverso la fictione del valore, della crescita, della proprietà e della rendita. Una comunità che converte il capitale virtuale in capitale umano ha un valore capitale che il capitalismo non misura: capitale relazionale, cognitivo, temporale e ambientale. La potenza di una società cooperativa non è nel capitale fittizio: è nel capitale reale, che è nelle persone.
 >
@@ -100,6 +100,13 @@ Lo stesso meccanismo blockchain è alla base dei **consorzi** tra produttori, pe
 - I **custodi** sono i volontari che gestiscono lo scaffale, registrano le custodie e segnalano i beni da rimettere in circolo.
 - → [Documenti/beni_condivisibili.md](Documenti/beni_condivisibili.md) — il meccanismo completo di custodia rotante, il ruolo dei centri culturali e il valore di trasmissione.
 
+### Centri culturali
+- Il **centro culturale** è un **nodo** del sistema, non uno spazio.
+- Può essere **astratto** (chat di gruppo, bacheche, un albero cavo, un link di incontro) o **fisico** (un mercatino, una libreria, un parco).
+- Il centro culturale è il **punto di incontro** tra le persone, non il luogo dove i beni stanno.
+- I beni sono **custoditi dalle persone**, non dagli spazi.
+- Lo spazio fisico, quando esiste, è solo un **indirizzo**, non il corpo del sistema.
+
 ### Fine anno
 - La **percentuale di credito** viene tesa verso lo zero: si svuotano le casse.
 - Se **avanzano soldi**, si acquistano **beni nuovi** da mettere nel **reparto nuovo**.
@@ -108,6 +115,7 @@ Lo stesso meccanismo blockchain è alla base dei **consorzi** tra produttori, pe
 ### Legalità
 - Si usano **metodi legali** in stile **buoni** (es. buoni pasto, buoni spesa, buoni libro).
 - **Stato: Italia** — il sistema si inserisce nel quadro normativo italiano (es. cooperative, associazioni, 501(c) equivalenti italiani).
+- Quando servirà un **sistema legale**, un punto di riferimento potrebbe essere un **commercialista**, dove vengono semplicemente sbrogliate le parti legali.
 
 ### Il capitale sono le persone
 - Il **capitale del sistema** non è il denaro, ma le **persone che vi aderiscono**.
@@ -124,6 +132,7 @@ Lo stesso meccanismo blockchain è alla base dei **consorzi** tra produttori, pe
 - Prototipo server + blockchain
 - Test con gruppo pilota
 - Lancio pubblico del primo mercatino
+- Identificazione dei **centri culturali** come nodi (astratti o fisici) del sistema
 
 ### Fase 2 — Fondazione e espansione
 Dopo il consolidamento iniziale:
@@ -189,7 +198,7 @@ Dopo il consolidamento iniziale:
 - [ ] Definire il **sistema di percentuale** per la gestione delle finanze e delle spese vive in denaro reale
 - [ ] Implementare il **sistema di prenotazione** dei beni (24h di fermo, blocco 1 settimana se non ritirato)
 - [ ] Definire il **meccanismo di custodia rotante** per i beni condivisibili (libri, CD, manuali, semi)
-- [ ] Identificare i **centri culturali** come nodi fisici dei mercatini
+- [ ] Identificare i **centri culturali** come nodi (astratti o fisici) del sistema
 - [ ] Verificare il quadro legale italiano (cooperativa, associazione, 501(c))
 - [ ] Prototipo MVP
 - [ ] Test pilota
@@ -248,4 +257,7 @@ Dopo il consolidamento iniziale:
 - Come strutturare il **consorzio autogestito** e la **certificazione delle catene di approvvigionamento** sulla blockchain?
 - Come strutturare il **meccanismo di custodia rotante** per i beni condivisibili (libri, CD, manuali, semi)?
 - Come misurare il **valore di trasmissione** di un bene condiviso senza che diventi un credito?
+- Come si diventa un **nodo** (centro culturale) del sistema?
+- Come si custodisce un bene **senza uno spazio fisico**?
+- Come si misura il **valore di un nodo** (centro culturale)?
 - Come garantire la **tracciabilità completa** dal produttore al consumatore senza magazzini né intermediari?
