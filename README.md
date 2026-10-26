@@ -175,17 +175,6 @@ Dopo il consolidamento iniziale:
 | 2 | Fondazione non-profit, consorzi, edilizia sociale, espansione | ⏳ Da fare |
 | 3 | SPA per servizi pubblici (acqua, concorrenza) | ⏳ Da fare |
 
-## Metodo e Piani
-
-- **Metodo**: [Strumenti/metodo.md](Strumenti/metodo.md) — il metodo di lavoro (diario, piani, task, sistema confidenziale).
-- **Piano iniziale**: [Strumenti/piani/resistenza/README.md](Strumenti/piani/resistenza/README.md) — il piano da cui derivano tutti gli altri piani.
-- **Piani delle fasi**: `Strumenti/piani/<fase>/README.md` — un piano dedicato per ogni fase.
-- **Piani delle sessioni**: `Strumenti/piani/<sessione>/README.md` — un piano dedicato per ogni sessione di lavoro.
-
-> **Regola**: ogni volta che si lavora sul progetto (non sul metodo), si crea una cartella del piano relativo in `Strumenti/piani/`.
-> Ogni argomento richiede **un minimo di 3 derivazioni** per avere una suddivisione del piano iniziale.
-> Via via che il progetto cresce, vanno aggiunti i piani necessari in base alla soggettività dell'utente e del metodo.
-
 ## Roadmap
 
 ### Fase 1
