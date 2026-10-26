@@ -237,6 +237,16 @@ Dopo il consolidamento iniziale:
 - [ ] Strategia fiscale (trucchetti anti-multinazionali)
 - [ ] Lancio dei servizi
 
+## Suggerimenti
+
+**Vuoi contribuire? Lascia un suggerimento.**
+
+La cartella [`Suggerimenti/`](Suggerimenti/readme.md) è lo spazio dove chiunque può depositare suggerimenti, documenti, idee, esperienze e domande da implementare nel progetto. Non serve essere esperti, non serve avere un titolo. Serve solo voler dire la propria.
+
+Ogni suggerimento viene letto, valutato e, se pertinente, trasformato in un task e implementato. Il flusso è: **deposito → triage → task → implementazione**.
+
+→ [Suggerimenti/readme.md](Suggerimenti/readme.md) — come depositare un suggerimento, formato, stati, regole.
+
 ## Note
 
 - Il sistema è **anticapitalista** nel senso che usa i meccanismi del capitalismo (offerta, domanda, prezzi) ma li piega al servizio della comunità.
