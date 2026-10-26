@@ -247,6 +247,13 @@ Ogni suggerimento viene letto, valutato e, se pertinente, trasformato in un task
 
 → [Suggerimenti/readme.md](Suggerimenti/readme.md) — come depositare un suggerimento, formato, stati, regole.
 
+## Licenza
+
+- **Parte teorica / letteratura** (questa repo): **CC0 1.0 Universal** — public domain dedication. Puoi copiare, modificare, distribuire e eseguire il lavoro, anche per scopi commerciali, senza chiedere permesso.
+- **Applicativo** (seconda repo): licenza software permissiva (100% libera).
+
+→ [LICENSE](LICENSE) — testo completo CC0 1.0.
+
 ## Note
 
 - Il sistema è **anticapitalista** nel senso che usa i meccanismi del capitalismo (offerta, domanda, prezzi) ma li piega al servizio della comunità.

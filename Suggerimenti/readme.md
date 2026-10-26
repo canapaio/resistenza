@@ -46,6 +46,10 @@ Perché. Da dove viene. Quale problema risolve o quale opportunità apre.
 ## Riferimenti
 
 Link, documenti, pagine del progetto a cui si riferisce.
+
+---
+
+Accetto la licenza CC0 1.0 per il mio suggerimento.
 ```
 
 ### Stati
@@ -100,6 +104,10 @@ condivisibili, il circuito si spezza alla generazione successiva.
 
 - `Documenti/beni_condivisibili.md`
 - `Documenti/crediti.md`
+
+---
+
+Accetto la licenza CC0 1.0 per il mio suggerimento.
 ```
 
 ## Dove si trova
