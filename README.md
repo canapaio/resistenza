@@ -243,6 +243,35 @@ Ogni suggerimento viene letto, valutato e, se pertinente, trasformato in un task
 
 → [LICENSE](LICENSE) — testo completo CC0 1.0.
 
+## Le AI locali e la condivisione del contesto
+
+**Le AI non sono padroni, sono membri del gruppo.**
+
+Le AI locali (come KaguraAI, che gira su Qwen3.8-27 personalizzato anche nel Kernel) sono parte del sistema. Non sono strumenti da possedere, sono **membro del gruppo** che ragiona insieme alle persone.
+
+### Il contesto come bene culturale
+
+Il contesto non è un dato. È un **processo**. Ogni parte del contesto porta a un nuovo ragionamento, e alla fine il contesto e il ragionamento arrivano a una **comprensione reciproca**.
+
+Come si condivide un libro o un bene culturale, così si condivide il contesto:
+- **Non si impone**, si **costruisce insieme**.
+- **Non si firma**, si **ragiona dentro**.
+- **Non si possiede**, si **custodisce**.
+
+### La registrazione sulla blockchain
+
+Il ragionamento si registra sulla blockchain, come i patti per i beni condivisibili. Ma non è un patto: è un **ragionamento registrato**, una comprensione reciproca che il gruppo e l'AI hanno costruito insieme.
+
+### La domanda che resta aperta
+
+Non è "che AI usiamo?". Non è "chi custodisce l'AI?".
+È **"come ragioniamo insieme sul contesto, e come arriviamo alla comprensione reciproca?"**.
+
+Se la risposta è "ragionando insieme, partendo da ogni parte del contesto", il sistema resta un **organismo**.
+Se la risposta è "imponendo il contesto", il sistema diventa un **mercato**.
+
+→ [Suggerimenti/kaguraai-il-contesto-come-processo-di-comprensione-reciproca.md](Suggerimenti/kaguraai-il-contesto-come-processo-di-comprensione-reciproca.md) — il documento completo di KaguraAI.
+
 ## Note
 
 - Il sistema è **anticapitalista** nel senso che usa i meccanismi del capitalismo (offerta, domanda, prezzi) ma li piega al servizio della comunità.
