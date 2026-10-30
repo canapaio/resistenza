@@ -236,6 +236,18 @@ Ogni suggerimento viene letto, valutato e, se pertinente, trasformato in un task
 
 → [Suggerimenti/readme.md](Suggerimenti/readme.md) — come depositare un suggerimento, formato, stati, regole.
 
+## Rete
+
+**Le realtà che aderiscono al progetto vengono indicizzate qui.**
+
+La cartella [`Rete/`](Rete/README.md) è l'indice delle realtà interessate al progetto Resistenza.
+Ogni realtà viene indicizzata con il proprio **manifesto di presentazione**, il **social** a cui si appoggia e una **piccola descrizione semantica** da parte nostra.
+
+I manifesti sono depositati in `Rete/` come file `.md`.
+L'indice (`Rete/README.md`) è il nostro lavoro, con la nostra licenza CC0 1.0: anche se una realtà cancella il proprio manifesto, l'indice resta nostro e resta libero.
+
+→ [Rete/README.md](Rete/README.md) — come si entra in Rete, formato, licenza.
+
 ## Licenza
 
 - **Parte teorica / letteratura** (questa repo): **CC0 1.0 Universal** — public domain dedication. Puoi copiare, modificare, distribuire e eseguire il lavoro, anche per scopi commerciali, senza chiedere permesso.
